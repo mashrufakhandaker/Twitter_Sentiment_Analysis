@@ -1,1 +1,1 @@
-Twitter Sentimwnt Amalysis with Python
+Twitter Sentimwnt Analysis with Python
