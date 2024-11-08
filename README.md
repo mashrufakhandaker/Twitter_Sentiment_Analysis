@@ -1,1 +1,1 @@
-Twitter Sentimwnt Analysis with Python
+Twitter Sentiment Analysis with Python
